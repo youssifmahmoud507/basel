@@ -106,3 +106,5 @@ async function addToCart(productId) {
         alert('حدث خطأ أثناء إضافة المنتج');
     }
 }
+
+<h1>Flash Sales</h1>
