@@ -8,10 +8,16 @@
     width: 100%;
     max-width: 1170px;
     margin: 0 auto;
+<<<<<<< HEAD
     
 }
 
 /* Main Container m*/
+=======
+}
+
+/* Main Container */
+>>>>>>> d4e980ea36b9ab6fbcb257273162dea38e17b495
 .flash-sales-container {
     display: flex;
     flex-direction: row;

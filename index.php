@@ -771,4 +771,7 @@
 <script src="./js/Flash Sales.js"></script>    <!-- <img src="" alt=""> -->
 </body>
 </html>
+<<<<<<< HEAD
 <!-- لaamkkamkma;klsmks;ksm hhhhash-->
+=======
+>>>>>>> d4e980ea36b9ab6fbcb257273162dea38e17b495
